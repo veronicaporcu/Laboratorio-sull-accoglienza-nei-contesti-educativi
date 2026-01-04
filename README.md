@@ -1,5 +1,5 @@
 # Laboratorio sull accoglienza nei contesti educativi
-il progetto svolto ha riguardato l’ideazione di un asilo nido in cui venivano definiti obiettivi e finalità della struttura, descrizione delle attività ludico-didattiche da svolgere, pianificazione degli spazi interni ed esterni e organizzazione del tempo.
+Il progetto svolto riguarda l’ideazione di un asilo nido in cui vengono definiti obiettivi e finalità della struttura, descrizione delle attività ludico-didattiche da svolgere, pianificazione degli spazi interni ed esterni e organizzazione del tempo.
 
 ![Laboratorio accoglienza - Project work finale](https://github.com/user-attachments/assets/6f01b806-4796-4d81-8ffb-e2f943cd6757)
 ![Laboratorio accoglienza - Project work finale](https://github.com/user-attachments/assets/1197b655-4d55-419f-b530-9f8a98ffd782)
